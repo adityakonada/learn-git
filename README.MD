@@ -11,3 +11,7 @@
  * rebase is another merge strategy  - c1
  * Development still in process - c2
  * now Development is completed - c3
+
+ ### Squash
+ * started development
+ 
