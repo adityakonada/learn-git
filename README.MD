@@ -8,5 +8,6 @@
 
  ### rebase
 
- * rebase is another merge strategy 
- * Development still in process
+ * rebase is another merge strategy  - c1
+ * Development still in process - c2
+ * now Development is completed - c3
